@@ -1,0 +1,129 @@
+h1{
+        color: rgb(3, 3, 105);
+
+}
+#rt{
+    
+    text-align: center
+    
+
+}
+#k{
+    height: 225px;
+    width: 350px;
+    margin-top: 50px;
+    margin-right: 150px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+#h{
+    height: 225px;
+    width: 350px;
+    margin-top: 75px;
+    margin-left: 150px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+#g{
+    height: 225px;
+    width: 350px;
+    margin-top: 75px;
+    margin-left: 25px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+#j{
+    height: 225px;
+    width: 350px;
+    margin-top: 75px;
+    margin-left: 25px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+#f{
+    height: 225px;
+    width: 350px;
+    margin-top: 75px;
+    margin-left: 25px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+#d{
+    height: 225px;
+    width: 350px;
+    margin-top: 50px;
+    margin-left: 25px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+
+#z{
+    color: rgb(3, 3, 105);
+}
+#c{
+    margin-top: 50px;
+    height: 500px;
+    width: 750px;
+}
+#q{
+    text-shadow: 5px 5px 10px;
+    text-align: left;
+    background-color: rgb(233, 8, 8);
+
+}
+#w{
+text-align: center;
+font-style: oblique;
+}
+#e{
+    text-shadow: 5px 5px 10px;
+    text-align: left;
+    background-color: rgb(249, 205, 8);
+}
+#r{
+    text-align: justify;
+    margin-top: -1px;
+    font-style: oblique;
+}
+#t{
+    text-shadow: 5px 5px 10px;
+    text-align: left;
+    background-color: rgb(9, 202, 245);
+}
+#y{
+    text-align: justify;
+    font-style: oblique;
+}
+#u{ text-shadow: 5px 5px 10px;
+    text-align: left;
+    background-color: rgb(249, 8, 157);
+
+}
+#i{
+    text-align: justify;
+    font-style: oblique;
+}
+
+#p{
+    height: 250px;
+    width: 750px;
+    margin-top: 80px;
+    margin-right: 20px;
+    border-radius: 25px;
+    border: 10px  solid black;
+}
+
+#l{
+   margin-bottom: -165px;
+   margin-right: 1500px;
+}
+#q1{ height: 225px;
+    width: 350px;
+    margin-top: 75px;
+    margin-right: 25px;
+    margin-left: 25px;
+    border-radius: 100px;
+    border: 10px  solid black;
+}
+
+}
